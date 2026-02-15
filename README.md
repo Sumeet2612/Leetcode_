@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sumeet2612/Leetcode_/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sumeet2612/Leetcode_/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
