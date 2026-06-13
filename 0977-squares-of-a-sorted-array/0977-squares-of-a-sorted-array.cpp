@@ -1,62 +1,29 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
-        int ns = nums.size() ;
-        vector<int> a;
-        vector<int> b;
-        vector<int> res(ns);
+        int n = nums.size();
 
-        for(int i=0; i < ns; i++){
-            if(nums[i] < 0){
-                a.push_back(nums[i]*nums[i]);
-            }
-        }
-        reverse(a.begin() , a.end());
-        for (int j=0; j<ns; j++){
-            if(nums[j] >= 0){
-                b.push_back(nums[j]*nums[j]);
-            }
-        }
+        vector<int> res(n);
 
-        int k = a.size();
-        int l = b.size();
-        int id = 0;
+        int left = 0;
+        int right = n - 1;
+        int pos = n - 1;
 
-        int m=0; int n=0;
+        while (left <= right) {
+            int leftSq = nums[left] * nums[left];
+            int rightSq = nums[right] * nums[right];
 
-        while (k>m && l>n){
-            if(a[m] < b[n]){
-                res[id] = a[m];
-                id++;
-                m++;
-            }
-            else if(a[m] > b[n]){
-                res[id] = b[n];
-                id++;
-                n++;
-            }
-            else{
-                res[id] = a[m] ;
-                id++ ; m++;
-                res[id] = b[n];
-                id++; n++;
+            if (leftSq > rightSq) {
+                res[pos] = leftSq;
+                left++;
+            } else {
+                res[pos] = rightSq;
+                right--;
             }
 
-        }
-
-        while(k>m){
-            res[id] = a[m];
-            id++;
-            m++;
-        }
-        while(l>n){
-            res[id] = b[n];
-            id++;
-            n++;
+            pos--;
         }
 
         return res;
-
-
     }
 };
