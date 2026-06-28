@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
+| [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumeet2612/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
+| [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
