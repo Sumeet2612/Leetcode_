@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sumeet2612/Leetcode_/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
