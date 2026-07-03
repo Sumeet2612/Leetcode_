@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
 | ------- |
