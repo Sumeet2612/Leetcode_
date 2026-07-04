@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
