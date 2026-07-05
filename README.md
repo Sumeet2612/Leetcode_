@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0977-squares-of-a-sorted-array) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sumeet2612/Leetcode_/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1991-find-the-middle-index-in-array) |
 ## Hash Table
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
