@@ -35,7 +35,7 @@ public:
             else {
                 water = (height[left] * (right-left));
                 maxwater = max(water , maxwater);
-                left++;
+                right--;
             }
         }
         return maxwater ;
