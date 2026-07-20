@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumeet2612/Leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumeet2612/Leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
