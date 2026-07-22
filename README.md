@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sumeet2612/Leetcode_/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0509-fibonacci-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sumeet2612/Leetcode_/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Sumeet2612/Leetcode_/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sumeet2612/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0152-maximum-product-subarray) |
