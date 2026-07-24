@@ -10,7 +10,7 @@ public:
 
         vector<vector<int>> res ;
 
-        for (int i=0; i<n; i++){
+        for (int i=1; i<n; i++){
             int start2 = intervals[i][0];
             int end2 = intervals[i][1];
 
