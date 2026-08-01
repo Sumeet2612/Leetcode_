@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sumeet2612/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sumeet2612/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Sumeet2612/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0143-reorder-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumeet2612/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sumeet2612/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sumeet2612/Leetcode_/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Sumeet2612/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
