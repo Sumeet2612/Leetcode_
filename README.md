@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sumeet2612/Leetcode_/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumeet2612/Leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
 | [0495-teemo-attacking](https://github.com/Sumeet2612/Leetcode_/tree/master/0495-teemo-attacking) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Sumeet2612/Leetcode_/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sumeet2612/Leetcode_/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sumeet2612/Leetcode_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Sumeet2612/Leetcode_/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
 | [0525-contiguous-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0525-contiguous-array) |
@@ -173,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
