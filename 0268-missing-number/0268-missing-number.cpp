@@ -9,7 +9,7 @@ public:
             freq[nums[i]] ++ ;
         }
 
-        for (int j=0; j<=freq.size(); j++){
+        for (int j=0; j<=nums.size(); j++){
             if(freq.find(j) == freq.end()){
                 mis = j;
             }
