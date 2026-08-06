@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/Sumeet2612/Leetcode_/tree/master/0986-interval-list-intersections) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Sumeet2612/Leetcode_/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1572-matrix-diagonal-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/1572-matrix-diagonal-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/Sumeet2612/Leetcode_/tree/master/1590-make-sum-divisible-by-p) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sumeet2612/Leetcode_/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
