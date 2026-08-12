@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumeet2612/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Sumeet2612/Leetcode_/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0867-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/1572-matrix-diagonal-sum) |
 ## Counting
 |  |
