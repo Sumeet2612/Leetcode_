@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumeet2612/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Sumeet2612/Leetcode_/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0457-circular-array-loop](https://github.com/Sumeet2612/Leetcode_/tree/master/0457-circular-array-loop) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sumeet2612/Leetcode_/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumeet2612/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Sumeet2612/Leetcode_/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
