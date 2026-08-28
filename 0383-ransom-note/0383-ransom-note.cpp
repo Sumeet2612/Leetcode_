@@ -1,22 +1,31 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
+        
+        unordered_map<char , int> have ;
+        unordered_map<char , int> reqd ;
 
-        unordered_map<char , int> freq;
-
-        for (int i=0; i<magazine.length(); i++){
-
-            freq[magazine[i]]++;
+        for (int i=0; i<magazine.size(); i++){
+            have[magazine[i]]++;
+        }
+        for (int j=0; j<ransomNote.size(); j++){
+            reqd[ransomNote[j]]++;
         }
 
-        for (int i=0; i<ransomNote.length(); i++){
-            if (freq.find(ransomNote[i]) != freq.end() && freq[ransomNote[i]] > 0){
-                freq[ransomNote[i]]--;
-            }
-            else {
-                return false ;
-            }
+        return func(have , reqd);
+    }
+
+
+    bool func (unordered_map<char , int> have , unordered_map<char , int> reqd){
+
+        for (auto i : reqd){
+            char c = i.first ;
+            int fneed = i.second ;
+            int fhave = have[c];
+            if (fhave < fneed) return false ;
         }
+
         return true ;
+
     }
 };
