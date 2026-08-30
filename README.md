@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Sumeet2612/Leetcode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumeet2612/Leetcode_/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sumeet2612/Leetcode_/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sumeet2612/Leetcode_/tree/master/0739-daily-temperatures) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumeet2612/Leetcode_/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/Sumeet2612/Leetcode_/tree/master/0739-daily-temperatures) |
