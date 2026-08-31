@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumeet2612/Leetcode_/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sumeet2612/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/Sumeet2612/Leetcode_/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Sumeet2612/Leetcode_/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Sumeet2612/Leetcode_/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0344-reverse-string) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumeet2612/Leetcode_/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Sumeet2612/Leetcode_/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumeet2612/Leetcode_/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
