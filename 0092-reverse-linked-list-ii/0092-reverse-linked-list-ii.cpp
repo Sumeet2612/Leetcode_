@@ -8,47 +8,41 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-
 class Solution {
 public:
     ListNode* reverseBetween(ListNode* head, int left, int right) {
 
-        if (head == NULL || left == right) {
+        if (head == NULL || left==right){
             return head;
         }
-
         ListNode* t = head;
         ListNode* before = NULL;
         int pos = 1;
 
-        // Move t to the node at position 'left'
-        while (pos < left) {
+        while (pos < left){
             before = t;
-            t = t->next;
+            t = t-> next;
             pos++;
         }
 
-        // Reverse the nodes from left to right
-        ListNode* curr = t;
+        int times = right - left + 1 ;
+        ListNode*  curr = t;
         ListNode* prev = NULL;
 
-        int times = right - left + 1;
-
-        while (times--) {
+        while (times--){
             ListNode* nex = curr->next;
-
-            curr->next = prev;
+            curr -> next = prev;
             prev = curr;
             curr = nex;
         }
 
-        t->next = curr;
+        t -> next = curr;
 
-        if (before != NULL) {
-            before->next = prev;
+        if (before != NULL){
+            before -> next = prev;
             return head;
         }
 
-        return prev;
+        return prev;  
     }
 };
