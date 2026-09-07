@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Sumeet2612/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sumeet2612/Leetcode_/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sumeet2612/Leetcode_/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumeet2612/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Sumeet2612/Leetcode_/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumeet2612/Leetcode_/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -320,4 +322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumeet2612/Leetcode_/tree/master/0020-valid-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
