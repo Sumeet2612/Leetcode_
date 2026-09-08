@@ -1,18 +1,44 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
-
         int n = nums.size();
-        int res = -1;
-        for (int i=0; i<n; i++){
-            if (nums[i] == target) {
-                res = i;
+        int low = 0; int high = n-1;
+
+
+        while(low <=high){
+            int guess = (low+high)/2;
+
+            if (nums[guess] == target){
+                return guess;
+            }
+            if(nums[guess] > nums[n-1]){
+
+                if (nums[guess] < target){
+                    low = guess + 1;
+                }
+                else{
+                    if (nums[0] > target){
+                        low = guess+1;
+                    }
+                    else {
+                        high = guess-1;
+                    }
+                }
             }
             else {
-                continue ;
+                if (nums[guess] > target){
+                    high = guess-1;
+                }
+                else {
+                    if (nums[n-1] < target){
+                        high = guess - 1;
+                    }
+                    else{
+                        low = guess+1;
+                    }
+                }
             }
         }
-        return res ;
-        
+        return -1;
     }
 };
