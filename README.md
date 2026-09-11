@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0509-fibonacci-number) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sumeet2612/Leetcode_/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumeet2612/Leetcode_/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Sumeet2612/Leetcode_/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sumeet2612/Leetcode_/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sumeet2612/Leetcode_/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/Sumeet2612/Leetcode_/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Sumeet2612/Leetcode_/tree/master/0875-koko-eating-bananas) |
