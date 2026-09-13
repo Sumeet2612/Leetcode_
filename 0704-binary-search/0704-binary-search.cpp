@@ -4,20 +4,23 @@ public:
 
         int n = nums.size();
         int low = 0; int high = n-1;
+        
 
-        while(high >= low){
-            int guess = (low+high) / 2;
+        while (low <= high){
 
-            if (nums[guess] == target) return guess;
+            int guess = (low+high)/2;
 
-            if (nums[guess] < target){
-                low = guess+1;
+            if (nums[guess] == target){
+                return guess;
+            }
+            if (nums[guess] >= target){
+                high = guess-1;
             }
             else {
-                high = guess - 1;
+                low = guess + 1;
             }
         }
-        
         return -1;
+        
     }
 };
