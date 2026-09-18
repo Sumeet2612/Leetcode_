@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Sumeet2612/Leetcode_/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Sumeet2612/Leetcode_/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sumeet2612/Leetcode_/tree/master/0739-daily-temperatures) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0502-ipo](https://github.com/Sumeet2612/Leetcode_/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0767-reorganize-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sumeet2612/Leetcode_/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Sumeet2612/Leetcode_/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0502-ipo](https://github.com/Sumeet2612/Leetcode_/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0767-reorganize-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumeet2612/Leetcode_/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sumeet2612/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Sumeet2612/Leetcode_/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0387-first-unique-character-in-a-string) |
+| [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sumeet2612/Leetcode_/tree/master/1189-maximum-number-of-balloons) |
 ## Heap (Priority Queue)
@@ -356,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sumeet2612/Leetcode_/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/Sumeet2612/Leetcode_/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bracket Sequences
