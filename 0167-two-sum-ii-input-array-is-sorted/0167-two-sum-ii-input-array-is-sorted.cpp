@@ -15,9 +15,11 @@ public:
                 left++;
             }
             else {
-                return {left+1 , right+1};
+                res.push_back(left+1);
+                res.push_back(right+1);
+                return res;
             }
         }
-        return {} ;
+        return res ;
     }
 };
