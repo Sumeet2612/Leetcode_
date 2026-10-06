@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sumeet2612/Leetcode_/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0509-fibonacci-number) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sumeet2612/Leetcode_/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumeet2612/Leetcode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumeet2612/Leetcode_/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sumeet2612/Leetcode_/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sumeet2612/Leetcode_/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Stack
 |  |
 | ------- |
