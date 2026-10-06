@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumeet2612/Leetcode_/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [1929-concatenation-of-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1991-find-the-middle-index-in-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Sumeet2612/Leetcode_/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Sumeet2612/Leetcode_/tree/master/0495-teemo-attacking) |
 | [0844-backspace-string-compare](https://github.com/Sumeet2612/Leetcode_/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0867-transpose-matrix) |
+| [1929-concatenation-of-array](https://github.com/Sumeet2612/Leetcode_/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
