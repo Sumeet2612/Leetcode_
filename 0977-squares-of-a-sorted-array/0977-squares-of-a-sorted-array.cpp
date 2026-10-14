@@ -3,25 +3,44 @@ public:
     vector<int> sortedSquares(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> res(n);
+        vector<int> res;
+        vector<int> pos ;
+        vector<int> neg ;
 
-        int left = 0;
-        int right = n - 1;
-        int pos = n - 1;
-
-        while (left <= right) {
-            int leftSq = nums[left] * nums[left];
-            int rightSq = nums[right] * nums[right];
-
-            if (leftSq > rightSq) {
-                res[pos] = leftSq;
-                left++;
-            } else {
-                res[pos] = rightSq;
-                right--;
+        for (int i=0; i<n; i++){
+            if (nums[i] < 0) {
+                neg.push_back(nums[i]*nums[i]);
             }
+            else {
+                pos.push_back(nums[i] * nums[i]);
+            }
+        }
+        sort(neg.begin(), neg.end());
+        
+        int l = neg.size(); int k = 0;
+        int m = pos.size(); int p = 0;
 
-            pos--;
+        while (k<l && m>p){
+            if (neg[k] > pos[p]){
+                res.push_back(pos[p]);
+                p++;
+            }
+            else if(neg[k] < pos[p]){
+                res.push_back(neg[k]);
+                k++;
+            }
+            else {
+                res.push_back(pos[p]); p++;
+                res.push_back(neg[k]); k++;
+            }
+        }
+        while (k<l){
+            res.push_back(neg[k]);
+            k++;
+        }
+        while(p<m){
+            res.push_back(pos[p]);
+            p++;
         }
 
         return res;
