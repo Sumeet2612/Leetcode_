@@ -11,17 +11,24 @@
  */
 class Solution {
 public:
-    int dfs(TreeNode* root,int &dis){
-        if(root==NULL) return 0; 
-        int lh=dfs(root->left,dis);
-        int rh=dfs(root->right,dis);
-        dis=max(dis,lh+rh);
-        return 1+max(lh,rh);
+
+    int func(TreeNode* root ,  int &res ){
+
+        if (root == NULL) return 0 ;
+        int left = func(root -> left , res);
+        int right = func(root -> right , res);
+        res = max(res , left+ right);
+
+        return max(left , right) + 1;
     }
+
     int diameterOfBinaryTree(TreeNode* root) {
-        int dis=0;
-        dfs(root,dis);
-        return dis;
+        int res = 0;
+
+        func(root , res);
+
+        return res;
+
         
     }
 };
