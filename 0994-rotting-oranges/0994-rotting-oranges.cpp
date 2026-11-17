@@ -46,6 +46,7 @@ public:
                     if(valid(row , col , n , m) && grid[row][col] == 1){
                         q.push({row , col});
                         grid[row][col] = -2;
+                        cout << fresh << " " ;
                         fresh -- ;
                     }
                 }
