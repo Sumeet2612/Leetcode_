@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sumeet2612/Leetcode_/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sumeet2612/Leetcode_/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Sumeet2612/Leetcode_/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0918-maximum-sum-circular-subarray) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sumeet2612/Leetcode_/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Sumeet2612/Leetcode_/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sumeet2612/Leetcode_/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sumeet2612/Leetcode_/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sumeet2612/Leetcode_/tree/master/0066-plus-one) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sumeet2612/Leetcode_/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sumeet2612/Leetcode_/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/Sumeet2612/Leetcode_/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Sumeet2612/Leetcode_/tree/master/0455-assign-cookies) |
 | [0502-ipo](https://github.com/Sumeet2612/Leetcode_/tree/master/0502-ipo) |
