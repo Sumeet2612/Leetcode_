@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Sumeet2612/Leetcode_/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Sumeet2612/Leetcode_/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sumeet2612/Leetcode_/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Sumeet2612/Leetcode_/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Sumeet2612/Leetcode_/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Sumeet2612/Leetcode_/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Sumeet2612/Leetcode_/tree/master/0904-fruit-into-baskets) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Sumeet2612/Leetcode_/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Sumeet2612/Leetcode_/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Sumeet2612/Leetcode_/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Sumeet2612/Leetcode_/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sumeet2612/Leetcode_/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Sumeet2612/Leetcode_/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sumeet2612/Leetcode_/tree/master/1899-merge-triplets-to-form-target-triplet) |
